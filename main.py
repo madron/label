@@ -1,8 +1,5 @@
 import flet as ft
+from label.app import App
 
 
-def main(page: ft.Page):
-    page.add(ft.SafeArea(ft.Text('Label')))
-
-
-ft.app(main)
+ft.app(App())
