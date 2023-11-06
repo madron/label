@@ -9,6 +9,7 @@ readme = "README.md"
 python = ">=3.10,<3.13"
 django = "^4.2.7"
 factory-boy = "^3.3.0"
+django-colorfield = "^0.10.1"
 
 
 [build-system]
